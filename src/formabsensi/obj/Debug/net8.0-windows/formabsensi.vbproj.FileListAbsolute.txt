@@ -1,0 +1,166 @@
+D:\Tugas Kampus\formabsensi\formabsensi\bin\Debug\net8.0-windows\formabsensi.exe
+D:\Tugas Kampus\formabsensi\formabsensi\bin\Debug\net8.0-windows\formabsensi.deps.json
+D:\Tugas Kampus\formabsensi\formabsensi\bin\Debug\net8.0-windows\formabsensi.runtimeconfig.json
+D:\Tugas Kampus\formabsensi\formabsensi\bin\Debug\net8.0-windows\formabsensi.dll
+D:\Tugas Kampus\formabsensi\formabsensi\bin\Debug\net8.0-windows\formabsensi.pdb
+D:\Tugas Kampus\formabsensi\formabsensi\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Tugas Kampus\formabsensi\formabsensi\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Tugas Kampus\formabsensi\formabsensi\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Tugas Kampus\formabsensi\formabsensi\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Tugas Kampus\formabsensi\formabsensi\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Tugas Kampus\formabsensi\formabsensi\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Tugas Kampus\formabsensi\formabsensi\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Tugas Kampus\formabsensi\formabsensi\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Tugas Kampus\formabsensi\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Tugas Kampus\formabsensi\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Tugas Kampus\formabsensi\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Tugas Kampus\formabsensi\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Tugas Kampus\formabsensi\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Tugas Kampus\formabsensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.vbproj.AssemblyReference.cache
+D:\Tugas Kampus\formabsensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.dashboard_Absen.resources
+D:\Tugas Kampus\formabsensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.Resources.resources
+D:\Tugas Kampus\formabsensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.riwayatabsen.resources
+D:\Tugas Kampus\formabsensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.vbproj.GenerateResource.cache
+D:\Tugas Kampus\formabsensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas Kampus\formabsensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.AssemblyInfoInputs.cache
+D:\Tugas Kampus\formabsensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.AssemblyInfo.vb
+D:\Tugas Kampus\formabsensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.vbproj.CoreCompileInputs.cache
+D:\Tugas Kampus\formabsensi\formabsensi\obj\Debug\net8.0-windows\formabse.354A4EA9.Up2Date
+D:\Tugas Kampus\formabsensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.dll
+D:\Tugas Kampus\formabsensi\formabsensi\obj\Debug\net8.0-windows\refint\formabsensi.dll
+D:\Tugas Kampus\formabsensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.pdb
+D:\Tugas Kampus\formabsensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.genruntimeconfig.cache
+D:\Tugas Kampus\formabsensi\formabsensi\obj\Debug\net8.0-windows\ref\formabsensi.dll
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\obj\Debug\net8.0-windows\formabsensi.vbproj.AssemblyReference.cache
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\obj\Debug\net8.0-windows\formabsensi.dll
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\obj\Debug\net8.0-windows\refint\formabsensi.dll
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\obj\Debug\net8.0-windows\formabsensi.pdb
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\bin\Debug\net8.0-windows\formabsensi.exe
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\bin\Debug\net8.0-windows\formabsensi.deps.json
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\bin\Debug\net8.0-windows\formabsensi.runtimeconfig.json
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\bin\Debug\net8.0-windows\formabsensi.dll
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\bin\Debug\net8.0-windows\formabsensi.pdb
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\obj\Debug\net8.0-windows\formabsensi.dashboard_Absen.resources
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\obj\Debug\net8.0-windows\formabsensi.Resources.resources
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\obj\Debug\net8.0-windows\formabsensi.riwayatabsen.resources
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\obj\Debug\net8.0-windows\formabsensi.vbproj.GenerateResource.cache
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\obj\Debug\net8.0-windows\formabsensi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\obj\Debug\net8.0-windows\formabsensi.AssemblyInfoInputs.cache
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\obj\Debug\net8.0-windows\formabsensi.AssemblyInfo.vb
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\obj\Debug\net8.0-windows\formabsensi.vbproj.CoreCompileInputs.cache
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\obj\Debug\net8.0-windows\formabse.354A4EA9.Up2Date
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\obj\Debug\net8.0-windows\formabsensi.genruntimeconfig.cache
+C:\Users\Rizal\OneDrive\Documents\TUGAS KULIAH\formabsensi\obj\Debug\net8.0-windows\ref\formabsensi.dll
+C:\VisualDesktop\formabsensi\bin\Debug\net8.0-windows\formabsensi.exe
+C:\VisualDesktop\formabsensi\bin\Debug\net8.0-windows\formabsensi.dll
+C:\VisualDesktop\formabsensi\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\VisualDesktop\formabsensi\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\VisualDesktop\formabsensi\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\VisualDesktop\formabsensi\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\VisualDesktop\formabsensi\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\VisualDesktop\formabsensi\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\VisualDesktop\formabsensi\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\VisualDesktop\formabsensi\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\VisualDesktop\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\VisualDesktop\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\VisualDesktop\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\VisualDesktop\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\VisualDesktop\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\VisualDesktop\formabsensi\obj\Debug\net8.0-windows\formabsensi.vbproj.AssemblyReference.cache
+C:\VisualDesktop\formabsensi\obj\Debug\net8.0-windows\formabsensi.dashboard_Absen.resources
+C:\VisualDesktop\formabsensi\obj\Debug\net8.0-windows\formabsensi.Resources.resources
+C:\VisualDesktop\formabsensi\obj\Debug\net8.0-windows\formabsensi.riwayatabsen.resources
+C:\VisualDesktop\formabsensi\obj\Debug\net8.0-windows\formabsensi.vbproj.GenerateResource.cache
+C:\VisualDesktop\formabsensi\obj\Debug\net8.0-windows\formabsensi.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualDesktop\formabsensi\obj\Debug\net8.0-windows\formabsensi.AssemblyInfoInputs.cache
+C:\VisualDesktop\formabsensi\obj\Debug\net8.0-windows\formabsensi.AssemblyInfo.vb
+C:\VisualDesktop\formabsensi\obj\Debug\net8.0-windows\formabsensi.vbproj.CoreCompileInputs.cache
+C:\VisualDesktop\formabsensi\obj\Debug\net8.0-windows\formabse.354A4EA9.Up2Date
+C:\VisualDesktop\formabsensi\obj\Debug\net8.0-windows\formabsensi.dll
+C:\VisualDesktop\formabsensi\obj\Debug\net8.0-windows\refint\formabsensi.dll
+C:\VisualDesktop\formabsensi\obj\Debug\net8.0-windows\formabsensi.pdb
+C:\VisualDesktop\formabsensi\bin\Debug\net8.0-windows\formabsensi.deps.json
+C:\VisualDesktop\formabsensi\bin\Debug\net8.0-windows\formabsensi.runtimeconfig.json
+C:\VisualDesktop\formabsensi\bin\Debug\net8.0-windows\formabsensi.pdb
+C:\VisualDesktop\formabsensi\obj\Debug\net8.0-windows\formabsensi.genruntimeconfig.cache
+C:\VisualDesktop\formabsensi\obj\Debug\net8.0-windows\ref\formabsensi.dll
+C:\VisualDesktop\Old\formabsensi\bin\Debug\net8.0-windows\formabsensi.exe
+C:\VisualDesktop\Old\formabsensi\bin\Debug\net8.0-windows\formabsensi.deps.json
+C:\VisualDesktop\Old\formabsensi\bin\Debug\net8.0-windows\formabsensi.runtimeconfig.json
+C:\VisualDesktop\Old\formabsensi\bin\Debug\net8.0-windows\formabsensi.dll
+C:\VisualDesktop\Old\formabsensi\bin\Debug\net8.0-windows\formabsensi.pdb
+C:\VisualDesktop\Old\formabsensi\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\VisualDesktop\Old\formabsensi\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\VisualDesktop\Old\formabsensi\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\VisualDesktop\Old\formabsensi\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\VisualDesktop\Old\formabsensi\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\VisualDesktop\Old\formabsensi\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\VisualDesktop\Old\formabsensi\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\VisualDesktop\Old\formabsensi\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\VisualDesktop\Old\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\VisualDesktop\Old\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\VisualDesktop\Old\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\VisualDesktop\Old\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\VisualDesktop\Old\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\VisualDesktop\Old\formabsensi\obj\Debug\net8.0-windows\formabsensi.vbproj.AssemblyReference.cache
+C:\VisualDesktop\Old\formabsensi\obj\Debug\net8.0-windows\formabsensi.dashboard_Absen.resources
+C:\VisualDesktop\Old\formabsensi\obj\Debug\net8.0-windows\formabsensi.Resources.resources
+C:\VisualDesktop\Old\formabsensi\obj\Debug\net8.0-windows\formabsensi.riwayatabsen.resources
+C:\VisualDesktop\Old\formabsensi\obj\Debug\net8.0-windows\formabsensi.vbproj.GenerateResource.cache
+C:\VisualDesktop\Old\formabsensi\obj\Debug\net8.0-windows\formabsensi.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualDesktop\Old\formabsensi\obj\Debug\net8.0-windows\formabsensi.AssemblyInfoInputs.cache
+C:\VisualDesktop\Old\formabsensi\obj\Debug\net8.0-windows\formabsensi.AssemblyInfo.vb
+C:\VisualDesktop\Old\formabsensi\obj\Debug\net8.0-windows\formabsensi.vbproj.CoreCompileInputs.cache
+C:\VisualDesktop\Old\formabsensi\obj\Debug\net8.0-windows\formabse.354A4EA9.Up2Date
+C:\VisualDesktop\Old\formabsensi\obj\Debug\net8.0-windows\formabsensi.dll
+C:\VisualDesktop\Old\formabsensi\obj\Debug\net8.0-windows\refint\formabsensi.dll
+C:\VisualDesktop\Old\formabsensi\obj\Debug\net8.0-windows\formabsensi.pdb
+C:\VisualDesktop\Old\formabsensi\obj\Debug\net8.0-windows\formabsensi.genruntimeconfig.cache
+C:\VisualDesktop\Old\formabsensi\obj\Debug\net8.0-windows\ref\formabsensi.dll
+D:\Absensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.vbproj.AssemblyReference.cache
+D:\Absensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.dll
+D:\Absensi\formabsensi\obj\Debug\net8.0-windows\refint\formabsensi.dll
+D:\Absensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.pdb
+D:\Absensi\formabsensi\bin\Debug\net8.0-windows\formabsensi.exe
+D:\Absensi\formabsensi\bin\Debug\net8.0-windows\formabsensi.deps.json
+D:\Absensi\formabsensi\bin\Debug\net8.0-windows\formabsensi.runtimeconfig.json
+D:\Absensi\formabsensi\bin\Debug\net8.0-windows\formabsensi.dll
+D:\Absensi\formabsensi\bin\Debug\net8.0-windows\formabsensi.pdb
+D:\Absensi\formabsensi\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Absensi\formabsensi\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Absensi\formabsensi\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Absensi\formabsensi\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Absensi\formabsensi\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Absensi\formabsensi\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Absensi\formabsensi\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Absensi\formabsensi\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Absensi\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Absensi\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Absensi\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Absensi\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Absensi\formabsensi\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Absensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.dashboard_Absen.resources
+D:\Absensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.Resources.resources
+D:\Absensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.riwayatabsen.resources
+D:\Absensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.vbproj.GenerateResource.cache
+D:\Absensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Absensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.AssemblyInfoInputs.cache
+D:\Absensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.AssemblyInfo.vb
+D:\Absensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.vbproj.CoreCompileInputs.cache
+D:\Absensi\formabsensi\obj\Debug\net8.0-windows\formabse.354A4EA9.Up2Date
+D:\Absensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.genruntimeconfig.cache
+D:\Absensi\formabsensi\obj\Debug\net8.0-windows\ref\formabsensi.dll
+D:\Absensi\formabsensi\obj\Debug\net8.0-windows\formabsensi.sourcelink.json
